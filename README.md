@@ -73,7 +73,7 @@ Detected purchasing trends and seasonal patterns
 Highlighted underperforming products for improvement
 🚀 How to Run This Project
 Step 1: Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/sanjuDiatm-design/Customer_Behavior_Analysis/edit/main/README.md
 Step 2: Install Dependencies
 pip install pandas numpy matplotlib seaborn
 Step 3: Load Dataset in Python
